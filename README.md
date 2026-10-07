@@ -3,6 +3,7 @@
 O Professor Digital é uma aplicação web completa e interativa (Single Page Application - SPA) desenvolvida para transformar a experiência de aprendizagem e ensino. A plataforma combina módulos educacionais, ferramentas pedagógicas para professores, dinâmicas de gamificação e elementos do estilo RPG/AFK para engajar os estudantes.   
 
 **🚀 Funcionalidades principais**
+
 🎓 Área educacional e aprendizagem
 
 Estrutura por disciplinas e módulos: Organização de conteúdos em módulos progressivos.   
