@@ -40,3 +40,9 @@ Por ser uma aplicação contida num único ficheiro HTML, não é necessária a 
 Transfira ou guarde o ficheiro Professor_Digital_AFK_completo_v39.html.  
 Abra o ficheiro diretamente em qualquer navegador web moderno (Google Chrome, Mozilla Firefox, Edge, Safari).  
 Certifique-se de que possui uma ligação ativa à Internet para carregar a biblioteca externa p5.js via CDN.   
+
+**Criadoras**
+1. Isabela Harumi Yamakawa Gouveia da Silva
+2. Nathália Maria Silva
+3. Nathalya Gonçalves de Almeida
+4. Anna Julia da Silva
